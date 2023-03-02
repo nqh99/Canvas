@@ -1,0 +1,12 @@
+util\UtilsTest.class
+shape\BucketTest.class
+handler\HandlerTest.class
+handler\MapperTest.class
+validation\CanvasValidatorTest.class
+validation\RectangleValidatorTest.class
+shape\RectangleTest.class
+validation\BucketValidatorTest.class
+validation\LineValidatorTest.class
+data\CanvasDataTest.class
+shape\CanvasTest.class
+shape\LineTest.class
